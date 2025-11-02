@@ -1,0 +1,5 @@
+node_modules
+basic
+build
+dist
+db/*.db
