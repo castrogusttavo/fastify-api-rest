@@ -3,3 +3,4 @@ basic
 build
 dist
 db/*.db
+.env*
